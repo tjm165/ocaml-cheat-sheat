@@ -1,6 +1,6 @@
 ## VS Code Extension
 
-###OCaml Platform
+### OCaml Platform
 ```
 code --install-extension freebroccolo.reasonml
 Reason › Path: Ocamlmerlin
